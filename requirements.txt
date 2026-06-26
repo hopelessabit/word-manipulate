@@ -1,0 +1,14 @@
+# Wording Tool Requirements
+# Document management and processing dependencies
+
+# Core document handling
+python-docx>=0.8.11
+docxcompose>=1.3.0
+
+# Windows COM integration for PDF export
+pywin32>=305
+
+# For additional PDF features
+pypdf>=3.0.0
+pillow>=9.0.0
+
